@@ -28,3 +28,4 @@
 
 - Web : [bloomf.jp](https://bloomf.jp/)
 - 実績 : [bloomf.jp/works/](https://bloomf.jp/works/)
+- X : [@YasuDuritz](https://x.com/YasuDuritz)
